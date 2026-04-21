@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\01_Hello_World.csproj",
         "projectName": "01_Hello_World",
         "projectPath": "D:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\01_Hello_World.csproj",
-        "packagesPath": "C:\\Users\\16427\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\baiming\\.nuget\\packages\\",
         "outputPath": "D:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\16427\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\baiming\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

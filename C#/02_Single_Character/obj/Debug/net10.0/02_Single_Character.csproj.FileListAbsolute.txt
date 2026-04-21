@@ -1,0 +1,15 @@
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\bin\Debug\net10.0\02_Single_Character.exe
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\bin\Debug\net10.0\02_Single_Character.deps.json
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\bin\Debug\net10.0\02_Single_Character.runtimeconfig.json
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\bin\Debug\net10.0\02_Single_Character.dll
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\bin\Debug\net10.0\02_Single_Character.pdb
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.AssemblyInfoInputs.cache
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.AssemblyInfo.cs
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.csproj.CoreCompileInputs.cache
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.sourcelink.json
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.dll
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\refint\02_Single_Character.dll
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.pdb
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\02_Single_Character.genruntimeconfig.cache
+D:\Programe\Algorithm_Learning\C#\02_Single_Character\obj\Debug\net10.0\ref\02_Single_Character.dll

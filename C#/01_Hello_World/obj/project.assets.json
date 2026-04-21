@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\16427\\.nuget\\packages\\": {}
+    "C:\\Users\\baiming\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\01_Hello_World.csproj",
+      "projectUniqueName": "D:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\01_Hello_World.csproj",
       "projectName": "01_Hello_World",
-      "projectPath": "d:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\01_Hello_World.csproj",
-      "packagesPath": "C:\\Users\\16427\\.nuget\\packages\\",
-      "outputPath": "d:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\obj\\",
+      "projectPath": "D:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\01_Hello_World.csproj",
+      "packagesPath": "C:\\Users\\baiming\\.nuget\\packages\\",
+      "outputPath": "D:\\Programe\\Algorithm_Learning\\C#\\01_Hello_World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\16427\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\baiming\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
