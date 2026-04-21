@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/C#/">
+    <Project Path="C#/01_Hello_World/01_Hello_World.csproj" />
+  </Folder>
+</Solution>
