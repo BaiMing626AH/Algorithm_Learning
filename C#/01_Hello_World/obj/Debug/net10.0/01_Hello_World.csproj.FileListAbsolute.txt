@@ -1,0 +1,15 @@
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\bin\Debug\net10.0\01_Hello_World.exe
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\bin\Debug\net10.0\01_Hello_World.deps.json
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\bin\Debug\net10.0\01_Hello_World.runtimeconfig.json
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\bin\Debug\net10.0\01_Hello_World.dll
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\bin\Debug\net10.0\01_Hello_World.pdb
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.AssemblyInfoInputs.cache
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.AssemblyInfo.cs
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.csproj.CoreCompileInputs.cache
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.sourcelink.json
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.dll
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\refint\01_Hello_World.dll
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.pdb
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\01_Hello_World.genruntimeconfig.cache
+D:\Programe\Algorithm_Learning\C#\01_Hello_World\obj\Debug\net10.0\ref\01_Hello_World.dll
