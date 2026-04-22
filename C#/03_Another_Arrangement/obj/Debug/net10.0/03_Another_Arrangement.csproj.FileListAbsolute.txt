@@ -1,0 +1,15 @@
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\bin\Debug\net10.0\03_Another_Arrangement.exe
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\bin\Debug\net10.0\03_Another_Arrangement.deps.json
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\bin\Debug\net10.0\03_Another_Arrangement.runtimeconfig.json
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\bin\Debug\net10.0\03_Another_Arrangement.dll
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\bin\Debug\net10.0\03_Another_Arrangement.pdb
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.AssemblyInfoInputs.cache
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.AssemblyInfo.cs
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.csproj.CoreCompileInputs.cache
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.sourcelink.json
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.dll
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\refint\03_Another_Arrangement.dll
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.pdb
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\03_Another_Arrangement.genruntimeconfig.cache
+D:\Programe\Algorithm_Learning\C#\03_Another_Arrangement\obj\Debug\net10.0\ref\03_Another_Arrangement.dll

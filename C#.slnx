@@ -2,5 +2,6 @@
   <Folder Name="/C#/">
     <Project Path="C#/01_Hello_World/01_Hello_World.csproj" />
     <Project Path="C#/02_Single_Character/02_Single_Character.csproj" />
+    <Project Path="C#/03_Another_Arrangement/03_Another_Arrangement.csproj" />
   </Folder>
 </Solution>

@@ -1,3 +1,6 @@
+close all;
+clear;
+clc;
 str = input('', 's');
 len = length(str);
 for i = 1:len
